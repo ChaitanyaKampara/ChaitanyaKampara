@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ** Computer Vision **
 
-- 💬 Ask me about ** Machine Learning,Natural Language Processining,Deep Learning**
+- 💬 Ask me about **Machine Learning,Natural Language Processining,Deep Learning**
 
 - 📫 How to reach me **chaitanya.k21@iiits.in**
 
